@@ -1,0 +1,7 @@
+publisher_keys/
+**/companies.json
+**/report_tasks.json
+**/update_store/
+**/__pycache__/
+*.xls
+*.xlsx

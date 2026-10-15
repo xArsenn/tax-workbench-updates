@@ -1,0 +1,16 @@
+{
+  "payload": {
+    "app_id": "tax-workbench",
+    "channel": "stable",
+    "version": "0.2.1",
+    "size": 606836,
+    "sha256": "66fb6be03333eeaed6d51db64a7dc1c67ca0e125c433bdb043bdd7cab4c996da",
+    "urls": [
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.2.1.zip?ref=main",
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.2.1.zip"
+    ],
+    "notes": "Python开发版：签名更新、独立版本目录和启动失败恢复。",
+    "min_python": "3.10"
+  },
+  "signature": "wnLJWfpddVIx2NnXGC4+l+pD4cVHXWALFoXBeNbESloVuZ/GdUaxsIZM0YmhX93qoZSA2RasRJmf31Z2TSiAjKNoVFtv4Ajb3t9hjmFil2fEzGMVZdjSbJKmZV/kcBvFSyQq2C3AyTcgXv5Rp/MybLbwwZsquznk4m/FbKDmLNUVLNAG1uWKXfyTYcAakwF5ewPkqvP+//vsrCAtzncaxQ/FbNDlJeKCduW8a+rc9wom94rWZWlvTF8CTua/ketsK4XKpGieW7HuRHzdKehXMYZsjIHIwCFwFxtbpPl3G2Dme4J2faEeFpHVvCpsYQtDBzGiOg0z9X/KOH3nTnNkpoV8BDRL16J4w0rlu8IRWHYTyG22t2OIA2ocaR4kLtFghGHkNL3gY0Jbm5tJKpU40HwOmUOfsW1u02bN4yVk6oGWm8pVlP/LvWA1nsHpKjnBRQMfKQyyyftAJeKphmvn4jdYrJf3b+LdDYWnr7g5njAjeFpPQNmj8ehCysaJYUGo"
+}
