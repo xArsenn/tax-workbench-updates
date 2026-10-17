@@ -1,0 +1,20 @@
+{
+  "version": "0.3.5",
+  "package_sha256": "4a5be13b8e1f082c9c2e0ac7e45ccf3ad592fd61ac515572d5d5c3beeff8b4b8",
+  "results": {
+    "final_zip_regression_28": "通过",
+    "final_zip_browser_fix_present": "通过",
+    "local_edge_popup_navigation": "通过",
+    "isolated_download_stage_restart_new_ui_version_commit": "通过",
+    "native_frozen_exe_opened_on_desktop": "通过",
+    "native_update_window_shows_current_0_3_5": "通过",
+    "real_tax_login_business_tabs": "未验证",
+    "original_desktop_shortcut_retargeted": "未通过"
+  },
+  "limits": [
+    "Isolated update flow substituted local final ZIP for network transfer and used Python launcher, not the existing installed EXE.",
+    "Native EXE startup and update UI were additionally observed through Windows computer-use tools.",
+    "Desktop shortcut modification was not authorized; original shortcut may still point to the old executable.",
+    "No taxpayer declaration, payment or credentials submission was performed."
+  ]
+}

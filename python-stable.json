@@ -2,16 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.4",
-    "size": 610901,
-    "sha256": "dadd61bca7b8a9f557af9406c92c0c0e5ec32b31f393a0dfc32c4f29f4f20885",
+    "version": "0.3.5",
+    "size": 611527,
+    "sha256": "4a5be13b8e1f082c9c2e0ac7e45ccf3ad592fd61ac515572d5d5c3beeff8b4b8",
     "urls": [
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.4.zip",
-      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.4.zip",
-      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.4.zip?ref=main"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.5.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.5.zip"
     ],
-    "notes": "修复登录后浏览器事件循环阻塞导致的空白业务页；关闭首页后保留业务标签页；不再自动关闭待跳转空白页；知识库直达税务机关官网，不使用必应替代。真实税局栏目需现场复测。",
+    "notes": "修正最终包遗漏浏览器事件循环修复的问题；新标签页继续加载，关闭首页保留业务页；更新界面明确展示会话阻止原因并自动刷新；启动更新失败保留原窗口。本版本签名前对最终ZIP运行回归测试。真实税局栏目仍需现场复测。",
     "min_python": "3.10"
   },
-  "signature": "I8yhx9rmByuPdwuIpaSp1VRiikbm32vQS2o1OaBkUmGU0iSNKXyy+T2RBLH+4ws7lDhCUqsJQi1+REnbHzEjEMAr9uCeBPv0BPufk5Zi9bqkQw/BeYnI4Q0oLZwUdvzRrD3WXsIxFJblvl4dUkaQx8okk9FiocqGnLg5IrlYuj6aGshr2nft7mWkU9wS/A/pDQh1unj/o4+LvttTOWbAXseipZFBKQFBbrskt8NVpO6aNFC8bC/Efn2gz1f1gWbf5LPXkMBMOUl2sJjDLunTdwHWL6G5j/mnMFuGQhL253+/KW5KF9Qtuupz9/CmoFnf74zdXxpQtRiFdZ785bOEl/6Vos14U28Qj9oGXtZv97fjq1zBPvf3v3aOubjFsAql6CkUIkjQkbHlMP7cnuv4x8+zkUg2/KzoGRntmugAyXz5e4bpA4KwQnCtVhZqZXlau757e+z5C9mryVbyN0WNmc16IIr2ncQsfToXW38Gd2trZ9oXbWpj/4lQjKf/MGUB"
+  "signature": "Jq2BlREzNG4TW938WfmD8Fb9enVXsWsGT0Tmd0xK3vrppee8zTUSUEgg/Jcpu6sEzhBwke7rQ2hiEAxgiw4UXEnUo/yYvOF3Qw8SgmYNe9t7w4+M15xlJ+ejvTBAMOE+W/fyBOT8OsAKcCCaoAmQLLXyjLpfTRHLU+OdrhQaiPFIh6CRPA+g0FlRqFFHsHYJqgD7bwOBXBilzidjbTNfnqpYXMMEKSIviRIS9U+Q4wkt3HfrW/DSuym9Ei/Lts77aggwatbuP4+Xiz5M9d86YErcB3XURcLKef2anmq3tNicQauYkUept0uTr8c7egruX7wTiqpPi66y6cZqsqdmygkvx0LWcuDiZbwjEMo3yF5AYOJ4chXkDesuuQkBbANwvhBUM0qrlLzMzcaul+iTB/RNQvyfc3kcCwwl/jeHTUofiXVOHeaFbbxgSU8zHS3d+d6Ci5Sg3nQa1aP7bk9oIDmKkJI995MJDKSjWLSe9bHx4HvgyENMcXGBds6BI2qt"
 }
