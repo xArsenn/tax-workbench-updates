@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.5",
-    "size": 611527,
-    "sha256": "4a5be13b8e1f082c9c2e0ac7e45ccf3ad592fd61ac515572d5d5c3beeff8b4b8",
+    "version": "0.3.6",
+    "size": 612854,
+    "sha256": "7e4dbe457a1f9936b0d38d3a1026ced54f033fe7e353bbf8ba09d5ffe09babde",
     "urls": [
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.5.zip",
-      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.5.zip"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.6.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.6.zip"
     ],
-    "notes": "修正最终包遗漏浏览器事件循环修复的问题；新标签页继续加载，关闭首页保留业务页；更新界面明确展示会话阻止原因并自动刷新；启动更新失败保留原窗口。本版本签名前对最终ZIP运行回归测试。真实税局栏目仍需现场复测。",
+    "notes": "申报企业改为单输入框即时检索：输入代码、公司名或税号自动显示完整候选列表；保留输入焦点，支持鼠标、方向键、回车和Esc；无需再手点下拉箭头。选择变更仍须重新校验。最终ZIP执行控件及申报窗口集成回归。",
     "min_python": "3.10"
   },
-  "signature": "Jq2BlREzNG4TW938WfmD8Fb9enVXsWsGT0Tmd0xK3vrppee8zTUSUEgg/Jcpu6sEzhBwke7rQ2hiEAxgiw4UXEnUo/yYvOF3Qw8SgmYNe9t7w4+M15xlJ+ejvTBAMOE+W/fyBOT8OsAKcCCaoAmQLLXyjLpfTRHLU+OdrhQaiPFIh6CRPA+g0FlRqFFHsHYJqgD7bwOBXBilzidjbTNfnqpYXMMEKSIviRIS9U+Q4wkt3HfrW/DSuym9Ei/Lts77aggwatbuP4+Xiz5M9d86YErcB3XURcLKef2anmq3tNicQauYkUept0uTr8c7egruX7wTiqpPi66y6cZqsqdmygkvx0LWcuDiZbwjEMo3yF5AYOJ4chXkDesuuQkBbANwvhBUM0qrlLzMzcaul+iTB/RNQvyfc3kcCwwl/jeHTUofiXVOHeaFbbxgSU8zHS3d+d6Ci5Sg3nQa1aP7bk9oIDmKkJI995MJDKSjWLSe9bHx4HvgyENMcXGBds6BI2qt"
+  "signature": "ePJPFlictvRuXJz10VR6mpmcgSsn0TDZS8Do7XJNKo5iHrDsOrsqozM+c5+nd1Pgx/wlinazItlb0fn+IH/wnoNXaxHMEzUZJX+liWAJrFh30a2Rcm5QiCu9fp7OkQGPBVERT0EI3983x70lVDrnTY2lZ9Te1C24kanJuw5wyGHiWJSxD1C9bc6CbbS5e3KMyO+/5+/C4P3DFWwGQKJI6QMy2GaXffngkvUayqCzlJMy3wyjRVcqNiQaHK25Spy/eDCJIDk5bKALoL2JXnxl7CW8YF+A85dNNPG3f8Lk7tOJnAryGMekNIe46gXv9BY++MqOSisRySL85fUWTNUS12eOJOrieewxtyZr4L4WLyNX1ZIVieHNTfEtVJo5UcnjTOh5khePelauO+yZ2MmqtTQ3ERhrpPRQF72oEspwR1JZLIHfFs4ZLe8vEtf5ASiwmGz7lXLCmPcUAR4j0vnyCoqSnDGpLGFOaiPCg+iFQKc47+C3zX2pLjODlEnVP2XJ"
 }
