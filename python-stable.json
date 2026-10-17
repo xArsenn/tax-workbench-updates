@@ -2,15 +2,16 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.1",
-    "size": 606902,
-    "sha256": "46d16f9ce3b92f145fbeaf52b76350a473e6e00275e46e234cc1e4deeffaa30e",
+    "version": "0.3.2",
+    "size": 610473,
+    "sha256": "cdd9b578e11f90903317e2e96e7bc18fc275b0042bae06a11f6074d63a710754",
     "urls": [
-      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.1.zip?ref=main",
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.1.zip"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.2.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.2.zip",
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.2.zip?ref=main"
     ],
-    "notes": "兼容Windows内置环境版的启动和重启更新。每位用户可自行检查、下载并重启更新；公司资料保留在各自本机。运行环境升级仍需完整安装包。",
+    "notes": "修复政策库、案例库和实操库官网直达，移除必应中转；申报企业使用独立空白搜索框，支持代码/名称/税号筛选；选择变更时旧校验失效；增加更新源备用地址。",
     "min_python": "3.10"
   },
-  "signature": "e7WppAtpY1DUaxR8UHVlUJibSMcwC9cMVrbFpgs1myD2IM04PkeESYDUzNEfe/w+C2UDAICDcr1DX5cAB/kz36vT7FYk93ptmUmeVLhyp/Z646HnJZwFRdcTgYzjdbvrV4clFnwTcOWFwwyEv6E2RqraxoZmSULZweGCErHf/PEKCAbyC5x7u/iRxiE58x1j8biokMd3cT8mignnT+WGlLDYRuisfOhp/AU7TWRYMxlwGkwKtIXb5njcXVtRlJo81ZqDz/e79DoqUqTktjaqdhdnM6VPPKp8BorKk3Udbk01nWsskRkdhWlNcJU4lL678FKYXVCAogazlICFutAJJhTixZp2Dr8gj5f/KrF1R/ZK6WCJBMDEdDxTTIj+GO/r2qu6lYgKr0Y9jfI4EYVmVguG+Q9GMHBDAMFJ7ldIpLQjEOazkLNjEPznj3SwM/qS3N0MxyurE69ZEHXrvXMCzufRdF4IGBMrioXzABQGt2ElK3pzj4lMx4kZK91gm08u"
+  "signature": "D/eML46snq84QKAsYsqvicsWq6XuUktbaGtOT0VmKhAXNo5MRIbSUEVDoFvlICC3annhu8oTh0iq0cGoPs6z/nkqdH15AcRPJFhzfElHRzJ/2e0fc83fbr6ZSP961YSmz1J/noT4zrcJzX6ISw3dfuRxLUispOOZiEeAeMFxwjNfujoJNi7f6osivMC96h2nF+gWzW5GieaFkh2IJ890AXbiww71DP/KublymZYSLg6DjOLeBppXkX2YMtniADWu78I1+3NT8y7vNRpj7InBbfS81b2xObhWrC0qNdFTjGbpbPQ2y58CyViHkHE+I++wnpeNzFg/be/mxWPH5Aj4azqUZwdD2h/L8Rt0DBOMmex5+08h4dv9Dd7nsQP0mZCOYmzvbXnG2oJVTrJAGyrpt+43QaZgeUE50KfO4epDS4Ne3/bqmP5Xjpf0Vn9HywTdon36o/AJqdvZTvlPMkkplOe5bunsPm9Cwb0biWL7UWgbobi54AqpRKCL7B4AdyS1"
 }
