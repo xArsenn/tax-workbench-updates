@@ -1,0 +1,17 @@
+{
+  "version": "0.3.4",
+  "results": {
+    "browser_session_regressions": "通过",
+    "real_edge_local_popup_redirect": "通过",
+    "close_home_keep_business_tab": "通过",
+    "unit_regressions_21": "通过",
+    "live_tax_portal_retest": "未验证",
+    "new_installer_runtime": "未验证"
+  },
+  "limits": [
+    "Local Edge tests use synthetic pages only; no tax login or declaration was performed.",
+    "The current running user application was not replaced or restarted.",
+    "New standalone installer runtime check was blocked by test environment Tcl file visibility; not included in this update."
+  ],
+  "reference": "https://playwright.dev/python/docs/library#timesleep-leads-to-outdated-state"
+}
