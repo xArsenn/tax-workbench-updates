@@ -1,0 +1,290 @@
+[
+  {
+    "region": "北京",
+    "url": "https://etax.beijing.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "天津",
+    "url": "https://etax.tianjin.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "河北",
+    "url": "https://etax.hebei.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "山西",
+    "url": "https://etax.shanxi.chinatax.gov.cn:8443",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "内蒙古",
+    "url": "https://etax.neimenggu.chinatax.gov.cn:8443",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "辽宁",
+    "url": "https://etax.liaoning.chinatax.gov.cn:8443",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "吉林",
+    "url": "https://etax.jilin.chinatax.gov.cn/",
+    "status": "连接待重试",
+    "note": "连接超时；请稍后重试或在浏览器打开",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "黑龙江",
+    "url": "https://etax.heilongjiang.chinatax.gov.cn/",
+    "status": "需浏览器核验",
+    "note": "TLS/证书握手异常；未关闭证书校验，不据此认定网址失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "上海",
+    "url": "https://etax.shanghai.chinatax.gov.cn:8443",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "江苏",
+    "url": "https://etax.jiangsu.chinatax.gov.cn:8443/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "浙江",
+    "url": "https://etax.zhejiang.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "安徽",
+    "url": "https://etax.anhui.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "福建",
+    "url": "https://etax.fujian.chinatax.gov.cn",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "江西",
+    "url": "https://etax.jiangxi.chinatax.gov.cn:8443/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "山东",
+    "url": "https://etax.shandong.chinatax.gov.cn/",
+    "status": "需浏览器核验",
+    "note": "HTTP 412：网站限制自动检测，不代表链接失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "河南",
+    "url": "https://etax.henan.chinatax.gov.cn:8443/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "湖北",
+    "url": "https://etax.hubei.chinatax.gov.cn/portal/",
+    "status": "需浏览器核验",
+    "note": "HTTP 412：网站限制自动检测，不代表链接失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "湖南",
+    "url": "https://etax.hunan.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "广东",
+    "url": "https://etax.guangdong.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "广西",
+    "url": "https://etax.guangxi.chinatax.gov.cn:8443/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "海南",
+    "url": "https://etax.hainan.chinatax.gov.cn:8443",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "重庆",
+    "url": "https://etax.chongqing.chinatax.gov.cn:8443/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "四川",
+    "url": "https://etax.sichuan.chinatax.gov.cn/bszm-web/apps/views/beforeLogin/indexBefore/pageIndex.html#/?",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "贵州",
+    "url": "https://etax.guizhou.chinatax.gov.cn/xxmh/html/index.html",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "云南",
+    "url": "https://etax.yunnan.chinatax.gov.cn:8443",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "西藏",
+    "url": "https://etax.xizang.chinatax.gov.cn:5100",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "陕西",
+    "url": "https://etax.shaanxi.chinatax.gov.cn/",
+    "status": "需浏览器核验",
+    "note": "HTTP 412：网站限制自动检测，不代表链接失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "甘肃",
+    "url": "https://etax.gansu.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "青海",
+    "url": "https://qinghai.chinatax.gov.cn/",
+    "status": "需浏览器核验",
+    "note": "TLS/证书握手异常；未关闭证书校验，不据此认定网址失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": false
+  },
+  {
+    "region": "宁夏",
+    "url": "https://etax.ningxia.chinatax.gov.cn/",
+    "status": "需浏览器核验",
+    "note": "HTTP 412：网站限制自动检测，不代表链接失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "新疆",
+    "url": "https://etax.xinjiang.chinatax.gov.cn/",
+    "status": "需浏览器核验",
+    "note": "TLS/证书握手异常；未关闭证书校验，不据此认定网址失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "大连",
+    "url": "https://etax.dalian.chinatax.gov.cn:8443/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "宁波",
+    "url": "https://ningbo.chinatax.gov.cn/",
+    "status": "需浏览器核验",
+    "note": "HTTP 412：网站限制自动检测，不代表链接失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": false
+  },
+  {
+    "region": "厦门",
+    "url": "https://etax.xiamen.chinatax.gov.cn/",
+    "status": "HTTP可达",
+    "note": "HTTP 200；仅验证网络访问，未验证登录",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "青岛",
+    "url": "https://etax.qingdao.chinatax.gov.cn/portal/",
+    "status": "需浏览器核验",
+    "note": "HTTP 412：网站限制自动检测，不代表链接失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  },
+  {
+    "region": "深圳",
+    "url": "https://etax.shenzhen.chinatax.gov.cn:8443/",
+    "status": "需浏览器核验",
+    "note": "TLS/证书握手异常；未关闭证书校验，不据此认定网址失效",
+    "checked_date": "2026-10-18",
+    "direct_login_configured": true
+  }
+]

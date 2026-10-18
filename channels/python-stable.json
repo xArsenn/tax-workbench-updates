@@ -1,0 +1,16 @@
+{
+  "payload": {
+    "app_id": "tax-workbench",
+    "channel": "stable",
+    "version": "0.3.7",
+    "size": 615986,
+    "sha256": "466ed5e8078a4a11854837abb7f2a6cd397fe4ec2654150b899973d59d74af3e",
+    "urls": [
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.7.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.7.zip"
+    ],
+    "notes": "补全地区电子税务局入口；修复空字符串未补齐及历史不可用配置；保留正常自定义配置；TLS和访问限制改为需浏览器核验；新增直接打开当地入口。青海、宁波仅提供官网导航，直接入口待核验。",
+    "min_python": "3.10"
+  },
+  "signature": "Q0p5njlc+xajQBSn5KTXX+Aa5tAtfxAQ+wF/Ko8Z7/4xqn9nITVbMQRo4+hOvq5v0nzvDq3kBWrTbIHh0YjpBAeTusJoYRXobQ88/hw/eU1DMtP/FWto/hvAtvDLV0JpUph+v95UkHIEyjPsvMLIcDaSL8LW4QpoGMVdhTHp3KLCu1bt80NEZ13naXBJtvn6qdlHimKMB2DQhWHPrMu3UxXZI9K7o4ihQPzLmAiST/C3dqULNxgDNXJtfBbnELm9CI/RL7D+3mVPBRySFETVfdL5qmihJIK1NW1FPUUyUOfCAjqx0qa6FIxQwFG0T/G63iqQ19WdF5YGbRWPrCfCFWRvSFZo4lGCOzI3TCKNmMg1OYFzK26B4H1tXRSRzuoy0xHAIWKEPhPvVckXXCuIrImoBrpgWlgG6UnrzVnLDBLqxeLaR4HFyD/YJVC1BpTYLlv1RSIHsjLRp/5pD9XCM1GMlMqbddBKuKuCsW++QkIKQn7pSgzYlEnjIW/cQi1n"
+}
