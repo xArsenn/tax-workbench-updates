@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.6",
-    "size": 612854,
-    "sha256": "7e4dbe457a1f9936b0d38d3a1026ced54f033fe7e353bbf8ba09d5ffe09babde",
+    "version": "0.3.7",
+    "size": 615986,
+    "sha256": "466ed5e8078a4a11854837abb7f2a6cd397fe4ec2654150b899973d59d74af3e",
     "urls": [
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.6.zip",
-      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.6.zip"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.7.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.7.zip"
     ],
-    "notes": "申报企业改为单输入框即时检索：输入代码、公司名或税号自动显示完整候选列表；保留输入焦点，支持鼠标、方向键、回车和Esc；无需再手点下拉箭头。选择变更仍须重新校验。最终ZIP执行控件及申报窗口集成回归。",
+    "notes": "补全地区电子税务局入口；修复空字符串未补齐及历史不可用配置；保留正常自定义配置；TLS和访问限制改为需浏览器核验；新增直接打开当地入口。青海、宁波仅提供官网导航，直接入口待核验。",
     "min_python": "3.10"
   },
-  "signature": "ePJPFlictvRuXJz10VR6mpmcgSsn0TDZS8Do7XJNKo5iHrDsOrsqozM+c5+nd1Pgx/wlinazItlb0fn+IH/wnoNXaxHMEzUZJX+liWAJrFh30a2Rcm5QiCu9fp7OkQGPBVERT0EI3983x70lVDrnTY2lZ9Te1C24kanJuw5wyGHiWJSxD1C9bc6CbbS5e3KMyO+/5+/C4P3DFWwGQKJI6QMy2GaXffngkvUayqCzlJMy3wyjRVcqNiQaHK25Spy/eDCJIDk5bKALoL2JXnxl7CW8YF+A85dNNPG3f8Lk7tOJnAryGMekNIe46gXv9BY++MqOSisRySL85fUWTNUS12eOJOrieewxtyZr4L4WLyNX1ZIVieHNTfEtVJo5UcnjTOh5khePelauO+yZ2MmqtTQ3ERhrpPRQF72oEspwR1JZLIHfFs4ZLe8vEtf5ASiwmGz7lXLCmPcUAR4j0vnyCoqSnDGpLGFOaiPCg+iFQKc47+C3zX2pLjODlEnVP2XJ"
+  "signature": "Q0p5njlc+xajQBSn5KTXX+Aa5tAtfxAQ+wF/Ko8Z7/4xqn9nITVbMQRo4+hOvq5v0nzvDq3kBWrTbIHh0YjpBAeTusJoYRXobQ88/hw/eU1DMtP/FWto/hvAtvDLV0JpUph+v95UkHIEyjPsvMLIcDaSL8LW4QpoGMVdhTHp3KLCu1bt80NEZ13naXBJtvn6qdlHimKMB2DQhWHPrMu3UxXZI9K7o4ihQPzLmAiST/C3dqULNxgDNXJtfBbnELm9CI/RL7D+3mVPBRySFETVfdL5qmihJIK1NW1FPUUyUOfCAjqx0qa6FIxQwFG0T/G63iqQ19WdF5YGbRWPrCfCFWRvSFZo4lGCOzI3TCKNmMg1OYFzK26B4H1tXRSRzuoy0xHAIWKEPhPvVckXXCuIrImoBrpgWlgG6UnrzVnLDBLqxeLaR4HFyD/YJVC1BpTYLlv1RSIHsjLRp/5pD9XCM1GMlMqbddBKuKuCsW++QkIKQn7pSgzYlEnjIW/cQi1n"
 }
