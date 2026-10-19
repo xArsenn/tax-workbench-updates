@@ -1,0 +1,12 @@
+[
+  {
+    "file": "release_artifacts/windows-build-0.3.8/dist/TaxWorkbench/TaxWorkbench.exe",
+    "matching_icon_sizes": 7,
+    "result": "通过"
+  },
+  {
+    "file": "release_artifacts/TaxWorkbench-Setup-0.3.8.exe",
+    "matching_icon_sizes": 7,
+    "result": "通过"
+  }
+]
