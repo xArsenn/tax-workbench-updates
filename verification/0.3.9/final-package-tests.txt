@@ -1,0 +1,96 @@
+MAPPING_TEST=PASS
+CHECKS=9
+MAPPED_LINES=183
+WARNINGS=0
+IDENTITY_AND_PERIOD_BLOCKING=PASS
+Local Edge regression: before pumping= ['http://127.0.0.1:55964/'] ; after pumping=/first; original tab closed; second navigation=/second
+
+test_multiresolution_ico (test_branding.BrandingTests.test_multiresolution_ico) ... ok
+test_png_sizes_and_alpha_channel (test_branding.BrandingTests.test_png_sizes_and_alpha_channel) ... ok
+test_tk_loads_window_and_sidebar_assets (test_branding.BrandingTests.test_tk_loads_window_and_sidebar_assets) ... ok
+test_last_tab_closed_ends_session (test_browser_session.BrowserSessionTests.test_last_tab_closed_ends_session) ... ok
+test_no_blocking_sleep_in_browser_methods (test_browser_session.BrowserSessionTests.test_no_blocking_sleep_in_browser_methods) ... ok
+test_original_tab_closed_other_business_tab_survives (test_browser_session.BrowserSessionTests.test_original_tab_closed_other_business_tab_survives) ... ok
+test_pending_blank_popup_not_closed_at_navigation_timeout (test_browser_session.BrowserSessionTests.test_pending_blank_popup_not_closed_at_navigation_timeout) ... ok
+test_real_edge_delayed_popup_and_second_navigation (test_browser_session.BrowserSessionTests.test_real_edge_delayed_popup_and_second_navigation) ... ok
+test_archive_rejects_executables (test_filing_features.FilingFeatureTests.test_archive_rejects_executables) ... ok
+test_archive_versions_export_hash_and_source_unchanged (test_filing_features.FilingFeatureTests.test_archive_versions_export_hash_and_source_unchanged) ... ok
+test_bridge_does_not_route_other_company (test_filing_features.FilingFeatureTests.test_bridge_does_not_route_other_company) ... ok
+test_launcher_has_no_shared_profile_or_tls_bypass (test_filing_features.FilingFeatureTests.test_launcher_has_no_shared_profile_or_tls_bypass) ... ok
+test_profiles_unique_even_for_same_region (test_filing_features.FilingFeatureTests.test_profiles_unique_even_for_same_region) ... ok
+test_region_mismatch_rejected_and_business_deep_link_reset (test_filing_features.FilingFeatureTests.test_region_mismatch_rejected_and_business_deep_link_reset) ... ok
+test_regional_link_uses_isolated_launcher (test_filing_features.FilingFeatureTests.test_regional_link_uses_isolated_launcher) ... ok
+test_status_does_not_infer_payment_from_declaration (test_filing_features.FilingFeatureTests.test_status_does_not_infer_payment_from_declaration) ... ok
+test_status_requires_pilot_identity (test_filing_features.FilingFeatureTests.test_status_requires_pilot_identity) ... ok
+test_browser_launch_and_failure_surface (test_official_links.OfficialLinksTests.test_browser_launch_and_failure_surface) ... ok
+test_keywords_stay_on_official_search (test_official_links.OfficialLinksTests.test_keywords_stay_on_official_search) ... ok
+test_official_direct_destinations (test_official_links.OfficialLinksTests.test_official_direct_destinations) ... ok
+test_region_routes_do_not_substitute_beijing (test_official_links.OfficialLinksTests.test_region_routes_do_not_substitute_beijing) ... ok
+test_rejects_nonofficial_or_credential_urls (test_official_links.OfficialLinksTests.test_rejects_nonofficial_or_credential_urls) ... ok
+test_blank_and_failed_old_entries_are_repaired (test_region_portals.RegionPortalTests.test_blank_and_failed_old_entries_are_repaired) ... ok
+test_catalog_coverage_and_no_cross_region_substitution (test_region_portals.RegionPortalTests.test_catalog_coverage_and_no_cross_region_substitution) ... ok
+test_http_success_does_not_claim_login_success (test_region_portals.RegionPortalTests.test_http_success_does_not_claim_login_success) ... ok
+test_preserves_valid_custom_entry (test_region_portals.RegionPortalTests.test_preserves_valid_custom_entry) ... ok
+test_rejects_fake_domains_and_cross_region_redirects (test_region_portals.RegionPortalTests.test_rejects_fake_domains_and_cross_region_redirects) ... ok
+test_tls_and_rate_limit_not_declared_unavailable (test_region_portals.RegionPortalTests.test_tls_and_rate_limit_not_declared_unavailable) ... ok
+test_arrow_keyboard_selection (test_search_select.SearchSelectTests.test_arrow_keyboard_selection) ... ok
+test_clear_and_manual_arrow (test_search_select.SearchSelectTests.test_clear_and_manual_arrow) ... ok
+test_continuous_input_stays_in_entry (test_search_select.SearchSelectTests.test_continuous_input_stays_in_entry) ... ok
+test_empty_default_no_popup (test_search_select.SearchSelectTests.test_empty_default_no_popup) ... ok
+test_enter_confirms_full_company_then_popup_stays_closed (test_search_select.SearchSelectTests.test_enter_confirms_full_company_then_popup_stays_closed) ... ok
+test_mouse_select_confirms_without_stealing_focus (test_search_select.SearchSelectTests.test_mouse_select_confirms_without_stealing_focus) ... ok
+test_name_and_tax_id_search_and_no_match (test_search_select.SearchSelectTests.test_name_and_tax_id_search_and_no_match) ... ok
+test_report_center_uses_live_popup_and_selection (test_search_select.SearchSelectTests.test_report_center_uses_live_popup_and_selection) ... ok
+test_typing_code_automatically_shows_company_without_focus_grab (test_search_select.SearchSelectTests.test_typing_code_automatically_shows_company_without_focus_grab) ... ok
+test_browser_closed_reenables_button_without_reopen (test_update_ui.UpdateWindowTests.test_browser_closed_reenables_button_without_reopen) ... ok
+test_direct_blocked_restart_shows_warning (test_update_ui.UpdateWindowTests.test_direct_blocked_restart_shows_warning) ... invalid command name "2190705565440drain"
+    while executing
+"2190705565440drain"
+    ("after" script)
+invalid command name "2190782380672drain"
+    while executing
+"2190782380672drain"
+    ("after" script)
+ok
+test_failed_launch_keeps_current_window (test_update_ui.UpdateWindowTests.test_failed_launch_keeps_current_window) ... invalid command name "2190756321920drain"
+    while executing
+"2190756321920drain"
+    ("after" script)
+ok
+test_live_session_disables_button_and_explains_reason (test_update_ui.UpdateWindowTests.test_live_session_disables_button_and_explains_reason) ... invalid command name "2190756213376drain"
+    while executing
+"2190756213376drain"
+    ("after" script)
+ok
+test_no_pending_cannot_restart (test_update_ui.UpdateWindowTests.test_no_pending_cannot_restart) ... invalid command name "2190762793344drain"
+    while executing
+"2190762793344drain"
+    ("after" script)
+ok
+test_pending_no_browser_restart_enabled (test_update_ui.UpdateWindowTests.test_pending_no_browser_restart_enabled) ... invalid command name "2190782636800drain"
+    while executing
+"2190782636800drain"
+    ("after" script)
+ok
+test_restart_invokes_launcher_and_closes_old_ui (test_update_ui.UpdateWindowTests.test_restart_invokes_launcher_and_closes_old_ui) ... invalid command name "2190756583232drain"
+    while executing
+"2190756583232drain"
+    ("after" script)
+ok
+test_bad_signature_and_http_are_rejected (test_updater.UpdaterTests.test_bad_signature_and_http_are_rejected) ... ok
+test_corrupt_and_zip_escape_are_rejected (test_updater.UpdaterTests.test_corrupt_and_zip_escape_are_rejected) ... ok
+test_frozen_launcher_does_not_need_python_script_command (test_updater.UpdaterTests.test_frozen_launcher_does_not_need_python_script_command) ... ok
+test_github_contents_transport (test_updater.UpdaterTests.test_github_contents_transport) ... ok
+test_pending_startup_failure_falls_back (test_updater.UpdaterTests.test_pending_startup_failure_falls_back) ... ok
+test_rate_limit_uses_backup_manifest (test_updater.UpdaterTests.test_rate_limit_uses_backup_manifest) ... ok
+test_semantic_version_and_no_downgrade (test_updater.UpdaterTests.test_semantic_version_and_no_downgrade) ... ok
+test_signature_error_never_falls_back_silently (test_updater.UpdaterTests.test_signature_error_never_falls_back_silently) ... ok
+test_signed_manifest_and_tampering (test_updater.UpdaterTests.test_signed_manifest_and_tampering) ... ok
+test_stage_does_not_replace_current_or_data (test_updater.UpdaterTests.test_stage_does_not_replace_current_or_data) ... ok
+test_startup_commit_only_matching_pending (test_updater.UpdaterTests.test_startup_commit_only_matching_pending) ... ok
+
+----------------------------------------------------------------------
+Ran 55 tests in 22.469s
+
+OK
+
