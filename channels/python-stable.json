@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.9",
-    "size": 797564,
-    "sha256": "125b13efb316ee79e02338939c6bf4f49eed763e03ac97b2116559056c2a75ad",
+    "version": "0.3.10",
+    "size": 802143,
+    "sha256": "dbf2c24cbf393d5ca044fffd6d1ed650ebca25def411311ed1a8d3e6a902bdcd",
     "urls": [
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.9.zip",
-      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.9.zip"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.10.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.10.zip"
     ],
-    "notes": "统一隔离各地区入口的浏览器会话，检查地区与入口，防止重复登录。新增本机申报资料档案：自选位置、历史版本、校验导出。新增00XE江苏只读查询页同步试点：仅已打开页面、未读取不推断；全税种、跨栏目和分页尚待现场适配，不自动申报或扣款。",
+    "notes": "新增系统管理-浏览器分配，检测Edge和Chrome，自动优先深圳Edge、北京Chrome；不同地区浏览器不足时明确提示，不静默共用。修复同步无反馈：顶部进度、20秒超时与结果弹窗；适配江苏首页事项名称/标签状态，未读取的所属期和缴费不推断。登录等待期间也处理只读同步，识别已登录首页后不再等待发送验证码。真实税局及受限环境外双浏览器联调待现场确认。",
     "min_python": "3.10"
   },
-  "signature": "QQkAhHqbgZYjLPkKJ5Io5MEd4IZUbeNFq6yU50sVQQFNsQRsUwhjg6KBPF1Kqm0WfKPBe8PmLMQWH8CLPzl1TPR9AJzLoCdOwNAExDoMblUZVIscjYWNVVbPC4ZPwP4s/ILWley5msWLffxCCcLbrrDjOuQOZN8cn7VWFOt86YsEJIaCVmXnZgcGZyuDPi8/mgixLPUUHrFXQlYS9/JVVSa126kLczw8g083mbasM76KVNnXkCjpL/54jUtWRlgwzIxsG2fs7InMPTse9IcJIWArFx+P2FhbvuiXDPepVscSQgKFw9Lfv7ZZtlOpG01G4jjvs4LJJCn6Wx03KVq8rxTm+8UZvItFixQSR0vPzzgMQZuabjo8r6+/Phy3dxXXG5GCXmboUw3ErJgIyO0J+u6h7mw+WgAWzh5MQKkAB3LbvtIiig1LclpgBiskbcMWgwXF2qzsEBufWhfPfA2wggiec8nhcfpxxr6ZYWdYkLwN12BT1QDqUse8E8+mDSFY"
+  "signature": "tlG6lRYfc5/U5eMZERIzjUxqrJvobjuBgwS7mwQcl10zeqvd/BK4Cb8nO9x4cfoyv64MuKsJPdKIX9T6VshW8NUyVkEqn8tI58xVwiOJ/kCxKdNJESzgTkRqqxdTZlquYdII/ODhn+jvBXJKUJUqm/4vmO46X8kEkfLD5Mg2LlrB/de8TlzppxJy9AcvFuWNT4o57rYKaoQl0VBEllp/uhVE2JhRM3NZXyHEiwZGVfdOFEM0yWE4KCsrfCyK2tNViSYUWtW9/qRhxidcOjk/hTfrSuOew3LX2gl8r5r4GO2nAmxZJNhL3gv8g2PJk8PVqC0slgx2q59S2TH+GNEi9u7CfB4zUpVhX8PyVcHZhNvRFC5Ssw3mjNe7lV+k4dPugVeg1PEg4nHiHTQV/Rd+fOTcq+5VtLRxzxxj+aET1HTrOkOEm876bMCx4jLCo+qFtJCpn0qtRC4xTyBBLsf+oeP6QP3A+6KOvZ2YR8z2oQNuMEA94nZQwSgr3pl+ls1v"
 }
