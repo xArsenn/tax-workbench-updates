@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.11",
-    "size": 811241,
-    "sha256": "ef853847c735c4c9160cd1d9887e88878c9d8518e89c79353e7113684773e7a4",
+    "version": "0.3.12",
+    "size": 816345,
+    "sha256": "d59ecb7ec1af6370bb7db5ac60bcca81cee08030490bf3a679091e37970c4742",
     "urls": [
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.11.zip",
-      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.11.zip"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.12.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.12.zip"
     ],
-    "notes": "开票任务改为可用的00PZ北京专票本地导入、校验与预览；支持内存模拟税号和JSON预览导出。原文件不变。税局批导、正式开票、结果查询和邮件交付尚未接通，本版本不会执行开票或发邮件。",
+    "notes": "00XE江苏有效登录会话每30秒自动采集已打开页，不再手动同步或弹成功提示；保留各查询页最近观察及读取时间，可离线查看导出。缴费金额仍须打开缴款查询并执行查询，不刷新税局、不自动登录、不扣款；未读取不等于零，缴款金额不推断已缴。实际缴款页版式尚待现场核对。",
     "min_python": "3.10"
   },
-  "signature": "Hz0H5aXE/z4efmmPYJ9cbg2V8sXqlIQU/yRQxdHH/mchf/Z7qfLVpOOP3GOIKKDfaF6NWJjl1MnLCmI6JulQAQ9+K4TwjRwaD9LA9PWGk149kANyOiOkfpptAi0x1gLS5fv+Gh2ccvKMbJziF8noraiJohFU4kV+q/Lnkv2ddwNpVeZGRbf2dXq/ngYWj+/FdoLhe8R3tAwH8j2u4w21RNvcagcnJWQy2OnHLurne41eQb/tCQFN2PSGu+OrfatSUkQCGC1qtfVsU3qKQ3ZK9+JoLm6zB7XDPfp9FVvo4VXYGr4nhSefO/r/ToB0z8hdaOyFBgGvNwvElTWS8IWuIFiH125I/j2aXzWRLYu/nhEzqAHaDHDvM+Ap6j2Y7Wd2J+gr+67DuhVLWs8VCA2iWHi/2zgmND1yL8/rkI+A21G6Y3OeTP+rn30orzLwfatPHQFUZBSYJcz1n9C+gVeMgoI84tGPQEDcYVeEq2FW53funLfKez/b1om3qCxhhTgK"
+  "signature": "Bw6sabno0qd2Cc15xBDTSdBsx6WC2MuP31mB4CjyfaZzASMd3uBt3FJQLxlyieaa88F+UNazBSg4P+qSN45gV42icBhe+L6q48Gv6WPQ+oDWsy1W0bBtsdJwENYq468/MkGh1eeuuBx7GRBRj6mj7P1ZqVygpElFc36+mpUHvS4BZpGDTKrVEL5DiEa9RomKzQss0AQSgxytmbN4ZSQvzto795reOCfZFnQSOz1L/hxDeVP0pkAKLar0Smztzt293MWNNJB+jx7r5FhLFMtWFjP/bVwS+7Du+8oIOOLa5Ppd7R8QZeq6PTvOKPk+FKjwCYrQUvf16HAGMzCaqzpKNr3zbq48ZkdCsolX74wRqBy/tFX84nz9xtEubw493CCDvH5IGHwJBh+MPNpYCIK4r0tvaeGvgSA4jwevvjdr/5jncdtct3rL6PXtH/0KGTppkuAd7PqWaE5d5XFAajLQtxV0n4Xd8C9HGbW1Qbi6aUlX9d2d5aejtTos0ebLyHPz"
 }
