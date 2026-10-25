@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.14",
-    "size": 819963,
-    "sha256": "bc9bc3b659c6305e8c51969d8b7d6819346537e8989a3727bee1d8e1423396a1",
+    "version": "0.3.15",
+    "size": 821168,
+    "sha256": "50ab3758465e4f2ca49fb4f70302e89a1a6b40a940842a7cea6591d6897eee37",
     "urls": [
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.14.zip",
-      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.14.zip"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.15.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.15.zip"
     ],
-    "notes": "申报与缴费状态扩展为多企业选择、独立会话采集和独立历史缓存，支持按代码、名称、税号搜索；切换企业清空旧视图并隔离迟到响应；保留00XE旧记录。只读取已打开且同时核对企业名称和税号的当地官方页面；不同地区版式尚未逐一现场验证，未识别不推断为未申报或零缴款。本版不启用正式开票、自动申报、扣款或邮件发送。",
+    "notes": "客户端登录兼容调整：每个地区、企业税号、登录人员及浏览器使用固定独立配置，退出不再删除；加入跨进程占用保护。默认手动登录，不自动填写、点击登录或请求验证码；企业列表右键可选自动填充。已登录且识别当前税号时不重复登录。配置含网站登录数据，仅保留本机，不复制日常浏览器数据；税局可能要求重新验证。本版未在真实00PZ税局会话验证权限提示是否消失，不宣称已解决全部税局兼容问题；不启用真实开票或邮件发送。",
     "min_python": "3.10"
   },
-  "signature": "G6wDwLMY5E/FqWcz1ex0qTEL5+XXQm50c6KsPMhx49N2w42oBzsJpIsLNP+BIMy2RI9jxL4HGHbSoAJunypdx9cUXRs6UanbLCxKk5vabWwY8lOtrOOb0weNI1uNeb6EgJwC9d3zXWlFquQzLNINknN1ihrk6khI8anDoEphBUCTG2+qYyLvdRZU6BY4v6QZET20w4JGBCPzfol9f2GGh8Dv63hJmetdBXL3o5REKRd5V6MlQAEzvsmnQw9jHhvBiCnl2dQRjr8u+lXPztP6CIL3QIwg2T9lqaNM7nCmNRz8UQ9+93PpvE7yyc0kHxH3fBaTkMcWpclPz/CvrkfRDsEG6ztaMA7J5DYWfmEyn/u6KspXBN0WV5a5ZnBSv1FcPnlpqFn1Ytb0iagOTtdc7jod8DdxiTy1/R7vvM4zl7z1l3sRRMPSdPW6631Hyg+h/pAaoBcYa6v5iTgyOAlAMx0GdV4J0oR5FStN+aCEspb7mSVZX5Q/i9tBi/9Tmwx0"
+  "signature": "nwf66qHw+CaxbYyJD4lK7m2JJzgaBhthbWPuKAd4a8TwksnkWSAkBr7gqhI1bd6fg5CHEk7vqqFU0I4vxCiZBUVpUKqjBxixi7huEKFgU71GaycVR5DZsrDeVY48CT5rUP+OseOdHEvm4twoRUkB4z+nWeu2BH2XmTCzKoEiObeJzHHeLPhXhjFGs4WeMSSgoKZietZjvuGdhZPzp/nxj/TVDFtTo6/MvjYzK96mFfBQnhX+IeYfYDI7dcT50j1Fr4kVRlIK9RO+Hr2CSyI47z3CtDXpvgeCI7TyKAUDzuOeNskEGM6PUM0vjSYt+nP12aUxDE5JAY/88n+OQ8rKhP7OggNWeCSoG568CvvDif5Aed4qxkuAuRS4crinZwdYuIxdjuEbMoafrY271parIcrvzby2Lxznw0+eMDfUI35ci5evbQlXy9F6rp0tWt+4Js8qEkA+kY2Q7aCHTm/rn6dvW1wxhYT4kQGJ5iaB88n5iszLvNA1jZXTU9nJHUs9"
 }
