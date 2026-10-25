@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.15",
-    "size": 821168,
-    "sha256": "50ab3758465e4f2ca49fb4f70302e89a1a6b40a940842a7cea6591d6897eee37",
+    "version": "0.3.16",
+    "size": 828470,
+    "sha256": "1558add2b206919dc87424a33becb3c0c86e4fa786338084691136da600eb2e5",
     "urls": [
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.15.zip",
-      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.15.zip"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.16.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.16.zip"
     ],
-    "notes": "客户端登录兼容调整：每个地区、企业税号、登录人员及浏览器使用固定独立配置，退出不再删除；加入跨进程占用保护。默认手动登录，不自动填写、点击登录或请求验证码；企业列表右键可选自动填充。已登录且识别当前税号时不重复登录。配置含网站登录数据，仅保留本机，不复制日常浏览器数据；税局可能要求重新验证。本版未在真实00PZ税局会话验证权限提示是否消失，不宣称已解决全部税局兼容问题；不启用真实开票或邮件发送。",
+    "notes": "新增开票额度管理：按企业和月份记录总额度、已用额度、剩余可用额度；元、不含增值税口径，缺失不按零。支持人工录入、剩余低于等于总额20%提醒、完整历史版本及JSON导出；支持尝试只读识别同一工作台会话已打开且企业身份、月份及金额单位明确的税局额度页，核对保存后才归档。读取版式未逐地区现场验证，不保证自动识别，未识别可人工录入；不自动查询、调额、开票或扣减额度。包含0.3.15专用浏览器兼容调整。",
     "min_python": "3.10"
   },
-  "signature": "nwf66qHw+CaxbYyJD4lK7m2JJzgaBhthbWPuKAd4a8TwksnkWSAkBr7gqhI1bd6fg5CHEk7vqqFU0I4vxCiZBUVpUKqjBxixi7huEKFgU71GaycVR5DZsrDeVY48CT5rUP+OseOdHEvm4twoRUkB4z+nWeu2BH2XmTCzKoEiObeJzHHeLPhXhjFGs4WeMSSgoKZietZjvuGdhZPzp/nxj/TVDFtTo6/MvjYzK96mFfBQnhX+IeYfYDI7dcT50j1Fr4kVRlIK9RO+Hr2CSyI47z3CtDXpvgeCI7TyKAUDzuOeNskEGM6PUM0vjSYt+nP12aUxDE5JAY/88n+OQ8rKhP7OggNWeCSoG568CvvDif5Aed4qxkuAuRS4crinZwdYuIxdjuEbMoafrY271parIcrvzby2Lxznw0+eMDfUI35ci5evbQlXy9F6rp0tWt+4Js8qEkA+kY2Q7aCHTm/rn6dvW1wxhYT4kQGJ5iaB88n5iszLvNA1jZXTU9nJHUs9"
+  "signature": "Eyp90L9XqIo4WZHXvaa/vlf7vhxtgPZ2gaBF5bPombAc+aHOBwG4XMJm7mlPQD1f3B3+Wu2QJzi56B7XbDqq6sujbxplwqxzsQ/CwHaAdqxxfiuwdst8S1ysvrXNpQDfjqHjt2/raqP+zj7zFn5FGwMBcG5r10Pp52cMwx+CcPaEshwLNM+yJM5O5ZPz+Hi/yheKsUyYNIbdgltS+sBVSEZkeaaEv41fYEeHiCSMclA5c9WDJnmPqxAwdlkktufn3AtwUOH0W6XH7dYt6CoQMvvW7A/calM/71tLp4Huw49fIjSmf0sCE/AkHPQMGPlvThaP/veshQRn9am70wUH/yAGvzG0sV/hUF6jPuvCKJRNTqJYKWuyvHXGLpFn/d+7RBMJOPStdzl2+Vg5StTyvPMt5HLiwgjXcIbU51bL6Fg4MdoNnkNgxzzuUCdk1UruemcBVZajW9bgmSzRP62rMr/pvfTf9eBFVxT/QXl7RJDrb1wdORXKJIZuV+EmvwpR"
 }
