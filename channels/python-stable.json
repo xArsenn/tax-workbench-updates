@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.12",
-    "size": 816345,
-    "sha256": "d59ecb7ec1af6370bb7db5ac60bcca81cee08030490bf3a679091e37970c4742",
+    "version": "0.3.13",
+    "size": 819176,
+    "sha256": "072675b4a67a679e8cedd04b40ba7f645b5f736cd40b6fa2be61185e71ca0cab",
     "urls": [
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.12.zip",
-      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.12.zip"
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.13.zip",
+      "https://cdn.jsdelivr.net/gh/xArsenn/tax-workbench-updates@main/packages/tax-workbench-python-0.3.13.zip"
     ],
-    "notes": "00XE江苏有效登录会话每30秒自动采集已打开页，不再手动同步或弹成功提示；保留各查询页最近观察及读取时间，可离线查看导出。缴费金额仍须打开缴款查询并执行查询，不刷新税局、不自动登录、不扣款；未读取不等于零，缴款金额不推断已缴。实际缴款页版式尚待现场核对。",
+    "notes": "修复旧免安装版缺少XML组件导致新版无法启动的问题；无需另装Python。修复同版本更新目录冲突，完整包可恢复、损坏的非当前版本目录保留备份后重新准备。新应用正确加载随包更新器，避免旧缓存并选择最高签名版本。不自动关闭税局页面或重启，保留公司资料。",
     "min_python": "3.10"
   },
-  "signature": "Bw6sabno0qd2Cc15xBDTSdBsx6WC2MuP31mB4CjyfaZzASMd3uBt3FJQLxlyieaa88F+UNazBSg4P+qSN45gV42icBhe+L6q48Gv6WPQ+oDWsy1W0bBtsdJwENYq468/MkGh1eeuuBx7GRBRj6mj7P1ZqVygpElFc36+mpUHvS4BZpGDTKrVEL5DiEa9RomKzQss0AQSgxytmbN4ZSQvzto795reOCfZFnQSOz1L/hxDeVP0pkAKLar0Smztzt293MWNNJB+jx7r5FhLFMtWFjP/bVwS+7Du+8oIOOLa5Ppd7R8QZeq6PTvOKPk+FKjwCYrQUvf16HAGMzCaqzpKNr3zbq48ZkdCsolX74wRqBy/tFX84nz9xtEubw493CCDvH5IGHwJBh+MPNpYCIK4r0tvaeGvgSA4jwevvjdr/5jncdtct3rL6PXtH/0KGTppkuAd7PqWaE5d5XFAajLQtxV0n4Xd8C9HGbW1Qbi6aUlX9d2d5aejtTos0ebLyHPz"
+  "signature": "t7gDAsgkYX0iIkCpBRLbig71UJt5+wuVKIovOm1cIn69LIkBTt1JCyOd6ADpMAPA3/ZYF0T7KlrlPQ9DlEGFwfgntWgOOJJDyiY6008qGnZ4XBU0JwEZS+3WM+hrP+ePq02mjkxOpeAJ9TFj7AHxJLqkT6sTn0N7f8gcLjBylh1BgoYpXTLGljCW3FXWCC3Am6TAyVgWj7NNXbdgUSgn7R8vCSRLcv/ZPdW2IDENsrKMB0pJJStToWju6zVn6ROARpGruQSLe/GwcgEiFwCOJpr6nlUl4NSl5JVRgGvHNVkMnFbHiOtC7Wv0qoj2f2u3W3O2MXXo8p2W9PF469rNgyg3RVs+aQdshu/Vr29jBrcAvyLDuuTKQVFA2AInmDz+uyAzMmgZnS24RrnjWMoOZ3WePfE7HXgnkIiJgj21gztmio7iAFMQ69TkQO6R90uyfW2Itb0MHYgcCS8omu+bHaABKq/p7+UwA6DSHpUwTu3UB8+qK1OfZ/rNRXBnOeuf"
 }
