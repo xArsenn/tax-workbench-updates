@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.22",
-    "size": 837060,
-    "sha256": "f8671dd87171a2d29c1563db56ed21d601d152c841bfd83bad59d24e446f16d9",
+    "version": "0.3.23",
+    "size": 838993,
+    "sha256": "5489ceb5defd714d9a6bb0058198b5956bbe0612b58aa6a836fb238b4ebbf184",
     "urls": [
-      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.22.zip?ref=main",
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.22.zip"
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.23.zip?ref=main",
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.23.zip"
     ],
-    "notes": "自动清理更新目录中过旧的程序版本和遗留的下载缓存。保留当前版本、上一版及待安装版本。",
+    "notes": "首页聚焦批量开票、报表与申报、申报缴费状态和税务风险预警。申报登录后尝试打开财务报表入口。天津登录持续白屏时打开市税务局官网。",
     "min_python": "3.10"
   },
-  "signature": "kF1gs3CmZxZgZPAEy4UfAljwwHx7XBghC77YnlcfsKaHzyF+Pdt85RCM29YJPQoZTGAEvyzoeOlW9jFVTMFBB+skKTy5HhxDjwxvWW+jX9C7HvxyahNi8YXwmmfZgLlJYfZdVXZsgPOo6kdW/Szz5hqsC2pmD1O8ct1BRBHJjC94n6Geejr7MaamZwurwJjyslrqPFA1/04TS/bU3VjRPX7E2W5A6DPOjlHEVXWLlOlC1Os07XppBrHnIWGU2QNVGwfDTVfMFQGb5c37lzmXvkD9yX7ic0F+IhCNKQ+D7AukQ1Wy+nHT8z9YNi4Sl2E+Rlp5gKgVkIX9zEphnMCCJehhRhqqiuK22i3OTBrQIJFSdqcTLmGUBjpxoijqIui9MHe7n9mMmSV+S5cFt8q+Mr9ZyU9Kgp4AD/1ppaJjqHTItin5lb3iqyOjQen+XaAizabfQFiHvokC9PfKmkx3IJock2V7htc0OxGUd3v+g6wWW6gu7EPiCGayLOknCLs4"
+  "signature": "oD4YQYJpJY3fZGLck+5DI9hhxr8ABiUajtfudwZhEEBe+NT0x9E0Pz+1b6+obz7Jd/Op+sPBOB/nw7AIXf1Bd8oQIUoFElNIC6bhD8xgRPa8TsJpLyzs436yd5hyeL2+yx8mmto/C2h0u396XIU/lc+Y9PEf8Xz7uzw8Eoh+zoYWWmYCcBZtP5feD53GG60p2BQNHErAnc1A8RYdhsTwCtGs6RLIQaDHsUDfictf9dtUw9YZQ/yhMg6ja0GM+hiDbNBn9qQhPHnGGYmz2IbWcB+kpgIxVt0wlFY/l0JUrXhe2L7Iurwm3NBvd2kg2XWUqsk9CZLv8HwEqHJW2J/ADLCymcS6dnWuDiCW672pla/EP7fpcL2YVm4u10XZ6KZEkL8bmRq9RFt8OE7+VN3gbhzZWejLkYhfmJ6gjmng5cW60nbf7627Q5No/hdWzkQBMMzAKQVv3Bojz/Tunik70j0Pu1rk7vRDfaeSCK1QV9lS8piVXvqtPqjLZoRjyWkP"
 }
