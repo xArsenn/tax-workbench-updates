@@ -6,10 +6,11 @@
     "size": 831569,
     "sha256": "840c0436518c386964ddbf17db81b8c976f256b885384ac6402e208a9b360ce3",
     "urls": [
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.17.zip?ref=main",
       "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.17.zip"
     ],
     "notes": "主界面恢复企业账号三项预填，仍由用户完成登录验证；新增办税员本地批量档案，已登记记录自动跳过。",
     "min_python": "3.10"
   },
-  "signature": "Do6+qaxDorOJyrTqLom4YgcbyHVLpK0MEVIkj1GhfldiGCRsdq5asN4DUVXpsH143PN6ces/+RPaKE5mqk/VHFxj4ZnsoatQ58QOMDzvQ7/GNmHH7MzYt6osBpNjgA4SKkG0VnNwmyY1NhmqtYnouog1MolCkxcXzzu/4czsUsKUY6IpdvRxLtGGcbCodxy9rqX1XzpAOjO4VmWw3d0DMY2/eCxLROW3FHVtb9AcF2j+ajb5N5m3OhH2vLLlRYvkGlDmkLdlXYMGz6nHVaX54EB0bJqJ0zra2yoz9iVoa8BMogUYyqcmsiBb0d1sCQ0BaYScTCI0B+jCFCGICwFwIb46/QNXHCj38SpKTAo5fHB4c01G0M/rzBTkJTWVBRCfOlEQ5YycDFXEaqPM2EHimI9yl5L58qGN5p1bi47DbPtKTC/7KJ+Pix5RSR9hcGH6KZL4ek/8qno1ikN8vkwwkv6k18JjuURmraX03FGaxWJPDPLDpbawtUSLFVWD5OLf"
+  "signature": "IiURieIoZQ454rbFmzsgSxafgCfjODam9jACnHM6dVkSwJFXKykNYRdEVixPmLoQhtfYu/RG8NEUZFTIdaLw9phOlnByfq8XJ/Ph9wqS3DuKg4IzHejQlEH9oHaiB/Ggk+nbuOUzHSdgRA1szIFN1u8ZZUhiLiEFZ9nZ9ctP3pfAQxeZYOTJirlB3RWcfnJydgME0YrkMHVTAupF291wW2KGoJpsvwf+n9/iS5Bwl0LApl7m2f3d6XIvWZ/apvR2I0YYhT9zTC6q45qfyrA8WHIqROSev7AnfSFr2rx/VRmzv4UI97+PfY3yx4bmnkF69OknMNFLB1U2JLMmSQtsI9mZnlicyEvAcl0FRdxyQMDtXGj/jW1DzLQe9401mFII6kdmFF9z2TwWcEekcA6ufeFl6z2pTon5XHsJ9Z5Wt0ZlbBaHUiVsKmkxRfVoOfz4yFfIy36/OEQSX1AwPe9vKZA8KQ4LXEaxczJw8Cq4wTGkiXunrumt0iYOMvnLjLGh"
 }
