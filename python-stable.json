@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.19",
-    "size": 832874,
-    "sha256": "c5a15b355445da4e67b0c561b178b2f1eef7619b4a1099a7e6f6066c2005e0ce",
+    "version": "0.3.20",
+    "size": 833577,
+    "sha256": "03411967323a865187b69987c34332b5505934c185e2c4202e73470eefe13b38",
     "urls": [
-      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.19.zip?ref=main",
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.19.zip"
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.20.zip?ref=main",
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.20.zip"
     ],
-    "notes": "企业档案统一提供手动新增、Excel与CSV批量导入和申报资料管理。支持手动维护企业申报网站、识别号、账号和密码，重复企业按税号跳过。",
+    "notes": "天津电子税务局从官网进入新版登录，登录跳转持续空白时返回官网。识别企业登录表单预填账号并点击登录，图片验证和短信验证码由用户完成。企业导入支持公司代码、业务模块和特殊说明。",
     "min_python": "3.10"
   },
-  "signature": "tR8lUYkanS/rBP8dpLHpx4LcQnBTa3OhaBiFaRIZwwnKxxUnx+evWyRROviU9WOtvaEoYSqsTa283h+hVXwoTJIRSX8oe9fiM97QUfEyP/olYzXGgio+u+WgbEhcIMJEnYZu4WpVzoWmqtNx8PcDGytkH5YNshkigAxPGHUNnxgMt3EqG8x66+dEVnrD1D5b+h/4Ge2vxCXUmdXQRi3vVW6cxB6sw++0IwypRo1VIajdKXeFUjnBEOZwJ5KK0gKsIakm26mCLjEeTquXBivDIe+nNANMEK/XjnACJsW8M5uR7l23sEC4GJ4/oCF4KfeA8OEnQ0WwqzNSuDwpin/qBrpTeeEWgu+NidHYeUBgyNfcL/eLh5BYKotmxPBw74UQLXyUcU1FTDp8UmhZoL37Eoq27g1fEgfQexQH4daoqikm0HpJQ/sAv73enGDetav+m/IhNu7Vy8PQMRJgw1BTlMGZRPSvM8IGQcZ+fufQjOo3ITL4LKczQc9ZYYA4SJ9F"
+  "signature": "BM+xXA0cA8p1Bd6XcubQvHB7igUUZ8hLL5M3as8Loq3NA3dwQs4NKuhcb9OCeyKs/VukZ8cS9Z1AX6ckWHDOVzdMiU3fP1d5PaZPJN/Ql/l9HC/VQHm/iUoyoePM0/QRjbGeJ+vJVQXj2F9vdjsT9kLEFezqX6wKK9xrpFVZkSjWslpxKZDMP39vOvaTdsHa6o1ThSPILWRSoxgQ1DDPJuDQKdv9rhwBkRJF7iYaq1DUPX7iyylTSNC8hz4vPG750xHDjORMnAUd1k5VImN1MWabLTxUUObhgC566Ww7AoM+XNo3bCZLQSAcQsa9dfgyjtl0Rw0tmSf604EeIZDOq/gwVXKTR0NIPdpvF2V87mmkgcbFEbbvjgWYEce4hbxJH6IVgWWEbetzZdstt5DHTve6qpkrmKacNjQZ9KgMeRwXHaFeiGUUWycX2izw1tYTFckUtimXC2IrQByYv84rhRrvBkO3MW5AeTa5+6AmybktUmIp2DZbql4KJwgjC2GP"
 }
