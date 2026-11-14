@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.24",
-    "size": 842485,
-    "sha256": "290265000b57d5a3bcfeb5b580b7ce67e9704fb5a453a24d2e663e24955100d4",
+    "version": "0.3.25",
+    "size": 843282,
+    "sha256": "f2b523cba6ef4f3e31389d898a4f527a6b2ad980ba1a361a3203874980f4984b",
     "urls": [
-      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.24.zip?ref=main",
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.24.zip"
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.25.zip?ref=main",
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.25.zip"
     ],
-    "notes": "重做工作台首页，加入企业切换、常用功能、开票流程和风险提醒。开票任务的登录按钮改用自动填充，真实模板默认走正式校验。",
+    "notes": "修复大窗口首页留白。天津登录错误时打开市税务局官网。开票任务校验通过后登录按钮带模板，并在窗口显示批量开具进度。",
     "min_python": "3.10"
   },
-  "signature": "AJq8egodGsrgSfPiEdsTHiq/QVMriCD0Bs8g+8WVdtAZQ38R11y+pYNIQ4miHGWQXJd3xciCr5KZYsmfVBMIXJa0SnChCp9cJs/nid4Fg6KcNVeLrY/M1mFR5AoFtzn98KY0DkNP6379bA0E+8z5X1gVA5sDk6cashjru5VJuya7r4irymQdTjYQTsHXOhwaO7H6AUYTKTgvQeJdnEL3lmhGtSFLHd9aWZIbAj0cFAu20AxnuxSBR8dcbWoBlbZFebnDlqXRzbS4BpDpYQDvR6Zc5mozEY+fqohRTi0RHE0Rbukw8mh7AfJt7WOhioLJbw5Rj+0VRIrTwr8CwHM9MQriSTa5WuNObWuf6fHiBqQ6qDkaqYe5A+6IgEL4HH5uIeOCicqE8LopURXLheYJZxnB0afRMVZY1oOBL5JB2lxkwRGhSGwRSuWZC6QSI8nx28KUqzA1Cwd6yWnAgzq1LJeXa2qYgqf5hNLfox5cn8KJOBP1FJnHFp6nN7vAEPxh"
+  "signature": "vFPAa5PrvJX/2YESjFztrYJP5bbW143ltvN4p8Ri3btyMtWqmQf4c4BS2ql6BUzKTIiD6dxe2Zeh5Z7kipEIoLoeU4oOOu/H6FyDMEOkZbr1p8hCro54JE61GyM87QyHU8QT/4T5Wb6q5Vt0qTMFxieY1ZZ4m9bZ0M9Q38x6gaUfimihK+P1kT+UdHIUZjr5rLfLeCZdxavgPmLKIhY/4gTPH2MtRkRn8I7j2EH33E6w6/SSyhFjfwPeR+FZdGBKcs9iySLTeTYH/P696hxT5wAcBohcg8rbr1gXQGvQ445ZMcWhD5LVla0NCZqenrOLdCH83afoz4iYwKKrM5NHLXrjFzeSs0k07e7SnH9PlBi22hG+njECOux9dY5btDPg7ftFaTmcIc39JlnZHXKKv2uk7qfxi2jfJtKXgnyA1ynfAfMYZjBRnr3C/5scrt1P4prfKBlkR4Ki5tw1j4nPT7qafESVn8HsjICK1t6VhUFvbO7WOw84p19HqaZrRB/h"
 }
