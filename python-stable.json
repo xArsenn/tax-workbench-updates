@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.23",
-    "size": 838993,
-    "sha256": "5489ceb5defd714d9a6bb0058198b5956bbe0612b58aa6a836fb238b4ebbf184",
+    "version": "0.3.24",
+    "size": 842485,
+    "sha256": "290265000b57d5a3bcfeb5b580b7ce67e9704fb5a453a24d2e663e24955100d4",
     "urls": [
-      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.23.zip?ref=main",
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.23.zip"
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.24.zip?ref=main",
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.24.zip"
     ],
-    "notes": "首页聚焦批量开票、报表与申报、申报缴费状态和税务风险预警。申报登录后尝试打开财务报表入口。天津登录持续白屏时打开市税务局官网。",
+    "notes": "重做工作台首页，加入企业切换、常用功能、开票流程和风险提醒。开票任务的登录按钮改用自动填充，真实模板默认走正式校验。",
     "min_python": "3.10"
   },
-  "signature": "oD4YQYJpJY3fZGLck+5DI9hhxr8ABiUajtfudwZhEEBe+NT0x9E0Pz+1b6+obz7Jd/Op+sPBOB/nw7AIXf1Bd8oQIUoFElNIC6bhD8xgRPa8TsJpLyzs436yd5hyeL2+yx8mmto/C2h0u396XIU/lc+Y9PEf8Xz7uzw8Eoh+zoYWWmYCcBZtP5feD53GG60p2BQNHErAnc1A8RYdhsTwCtGs6RLIQaDHsUDfictf9dtUw9YZQ/yhMg6ja0GM+hiDbNBn9qQhPHnGGYmz2IbWcB+kpgIxVt0wlFY/l0JUrXhe2L7Iurwm3NBvd2kg2XWUqsk9CZLv8HwEqHJW2J/ADLCymcS6dnWuDiCW672pla/EP7fpcL2YVm4u10XZ6KZEkL8bmRq9RFt8OE7+VN3gbhzZWejLkYhfmJ6gjmng5cW60nbf7627Q5No/hdWzkQBMMzAKQVv3Bojz/Tunik70j0Pu1rk7vRDfaeSCK1QV9lS8piVXvqtPqjLZoRjyWkP"
+  "signature": "AJq8egodGsrgSfPiEdsTHiq/QVMriCD0Bs8g+8WVdtAZQ38R11y+pYNIQ4miHGWQXJd3xciCr5KZYsmfVBMIXJa0SnChCp9cJs/nid4Fg6KcNVeLrY/M1mFR5AoFtzn98KY0DkNP6379bA0E+8z5X1gVA5sDk6cashjru5VJuya7r4irymQdTjYQTsHXOhwaO7H6AUYTKTgvQeJdnEL3lmhGtSFLHd9aWZIbAj0cFAu20AxnuxSBR8dcbWoBlbZFebnDlqXRzbS4BpDpYQDvR6Zc5mozEY+fqohRTi0RHE0Rbukw8mh7AfJt7WOhioLJbw5Rj+0VRIrTwr8CwHM9MQriSTa5WuNObWuf6fHiBqQ6qDkaqYe5A+6IgEL4HH5uIeOCicqE8LopURXLheYJZxnB0afRMVZY1oOBL5JB2lxkwRGhSGwRSuWZC6QSI8nx28KUqzA1Cwd6yWnAgzq1LJeXa2qYgqf5hNLfox5cn8KJOBP1FJnHFp6nN7vAEPxh"
 }
