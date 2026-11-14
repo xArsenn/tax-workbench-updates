@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.20",
-    "size": 833577,
-    "sha256": "03411967323a865187b69987c34332b5505934c185e2c4202e73470eefe13b38",
+    "version": "0.3.21",
+    "size": 836399,
+    "sha256": "b798f5e8d63e1a57d2b1c0ac5ad3935dca56cf57e89aae4c9c096229c96294af",
     "urls": [
-      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.20.zip?ref=main",
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.20.zip"
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.21.zip?ref=main",
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.21.zip"
     ],
-    "notes": "天津电子税务局从官网进入新版登录，登录跳转持续空白时返回官网。识别企业登录表单预填账号并点击登录，图片验证和短信验证码由用户完成。企业导入支持公司代码、业务模块和特殊说明。",
+    "notes": "北京专票试点新增登录及批量模板交接，税局复核后确认开票；天津持续空白后打开市税务局官网；短信验证页自动请求验证码。",
     "min_python": "3.10"
   },
-  "signature": "BM+xXA0cA8p1Bd6XcubQvHB7igUUZ8hLL5M3as8Loq3NA3dwQs4NKuhcb9OCeyKs/VukZ8cS9Z1AX6ckWHDOVzdMiU3fP1d5PaZPJN/Ql/l9HC/VQHm/iUoyoePM0/QRjbGeJ+vJVQXj2F9vdjsT9kLEFezqX6wKK9xrpFVZkSjWslpxKZDMP39vOvaTdsHa6o1ThSPILWRSoxgQ1DDPJuDQKdv9rhwBkRJF7iYaq1DUPX7iyylTSNC8hz4vPG750xHDjORMnAUd1k5VImN1MWabLTxUUObhgC566Ww7AoM+XNo3bCZLQSAcQsa9dfgyjtl0Rw0tmSf604EeIZDOq/gwVXKTR0NIPdpvF2V87mmkgcbFEbbvjgWYEce4hbxJH6IVgWWEbetzZdstt5DHTve6qpkrmKacNjQZ9KgMeRwXHaFeiGUUWycX2izw1tYTFckUtimXC2IrQByYv84rhRrvBkO3MW5AeTa5+6AmybktUmIp2DZbql4KJwgjC2GP"
+  "signature": "WINZsQkrl/TOArtKnkzsMObLNavIAhhsP/lryFuVcxpfpT4wR+iIuVWOXZjY0JH2aoULOTQczkqbSljYJ8aC/EVck2rPtUMMHZMozUeZnmKXWIimA3pu78qyhHivG+3Q8MR00rlwmjWPSdF3IHxVa5ap23hZuPVBBeFJEXygTKSyult2S4sYe1bsujH6Ut302fAFTVVRjc6n7ZwmmFH5+4C4B14FTn6ZGiYwaApFl9WBLNeoQ+yzjDK6Zge2PqgMz7l3wBKaFQjzl1ux2sxpyjTASkMsaI3yMYRjdrUL762744vTURQRLytIsBwjjGSxXuvRoMNELBVsHZ2LNkepE9G935sGcxqDaUeAru092WRNFFNER94/t6p++Sa4iUcd3DSRp7L6x1XPSasc8wO99++NH9RGX3xYoxeodBH3yBE+R7Of4HLhS3WcIA/GLXqQiozHCQXm7ujzR4kpws9jU347sIaWFLtnYZDMj0QLXnC52sIs3+YH1Z+eRLh28BAo"
 }
