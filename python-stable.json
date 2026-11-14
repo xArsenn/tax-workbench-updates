@@ -2,15 +2,15 @@
   "payload": {
     "app_id": "tax-workbench",
     "channel": "stable",
-    "version": "0.3.17",
-    "size": 831569,
-    "sha256": "840c0436518c386964ddbf17db81b8c976f256b885384ac6402e208a9b360ce3",
+    "version": "0.3.18",
+    "size": 832001,
+    "sha256": "9a256e2337c3ef995abb61773457df2be602e34c2e4a57f520dd995ee57176a2",
     "urls": [
-      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.17.zip?ref=main",
-      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.17.zip"
+      "https://api.github.com/repos/xArsenn/tax-workbench-updates/contents/packages/tax-workbench-python-0.3.18.zip?ref=main",
+      "https://raw.githubusercontent.com/xArsenn/tax-workbench-updates/main/packages/tax-workbench-python-0.3.18.zip"
     ],
-    "notes": "主界面恢复企业账号三项预填，仍由用户完成登录验证；新增办税员本地批量档案，已登记记录自动跳过。",
+    "notes": "新增企业批量添加，按统一社会信用代码跳过已有公司，替换办税员档案入口。启动后和运行期间自动检查并下载更新，税局会话结束且工作台空闲后自动重启。",
     "min_python": "3.10"
   },
-  "signature": "IiURieIoZQ454rbFmzsgSxafgCfjODam9jACnHM6dVkSwJFXKykNYRdEVixPmLoQhtfYu/RG8NEUZFTIdaLw9phOlnByfq8XJ/Ph9wqS3DuKg4IzHejQlEH9oHaiB/Ggk+nbuOUzHSdgRA1szIFN1u8ZZUhiLiEFZ9nZ9ctP3pfAQxeZYOTJirlB3RWcfnJydgME0YrkMHVTAupF291wW2KGoJpsvwf+n9/iS5Bwl0LApl7m2f3d6XIvWZ/apvR2I0YYhT9zTC6q45qfyrA8WHIqROSev7AnfSFr2rx/VRmzv4UI97+PfY3yx4bmnkF69OknMNFLB1U2JLMmSQtsI9mZnlicyEvAcl0FRdxyQMDtXGj/jW1DzLQe9401mFII6kdmFF9z2TwWcEekcA6ufeFl6z2pTon5XHsJ9Z5Wt0ZlbBaHUiVsKmkxRfVoOfz4yFfIy36/OEQSX1AwPe9vKZA8KQ4LXEaxczJw8Cq4wTGkiXunrumt0iYOMvnLjLGh"
+  "signature": "RkY6ayeHIwoy7KPfmc/Mry5anCsgY/jL3MVYbxm1fNoV83VFZLrAjoBamldK3XQsUh9pLppjF2xb/Lr5YHhTdI5TMQrb9mFUKSZCqe+kkIJNEAIXrZWrCUdlVZ8ypgUSmOisSJhiUyMDxE5fJLfg8iEiKz3PR12DZJUjhgzgbY6gUTODiuml+2RUHsk5sBEhx2/WBD3moa7IM4ctR974M2frmxU/nNmvIqrJyTEt3yHETHS6z4ydp3Jgk9DUJNTtqMfxZwv3Rplkfvi1Z5CIPZRaHd41rJyxBJBRZZaj4qCidWJy4zSMK08JSxHvoaZ03hWCTt0dVrCJyGail4/y5fuSrNyGLR9SxtAQqkB38FkVeW7gXDW+3iy+l8deWY2JwHW4l9tah0KXYxA90vDxbx1Z5MnlvHQlGmXSKgHGLDJJaJQpD1Go1rrug4N5s8eaQEXiqSXX8gItUnSkLSFWjYEjKbi+LMZjsJOuAMfdk7D4JTsAvkpuT+adIy4rV0Nl"
 }
